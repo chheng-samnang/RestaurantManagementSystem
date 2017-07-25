@@ -1,0 +1,106 @@
+<?php
+$lang['menu0'] = 'ស៊ុបគោពេញចិត្ត';
+$lang['menu1'] = 'ផ្ទាំងគ្រប់គ្រង';
+$lang['menu2'] = 'អត្រា​ប្តូ​រ​ប្រាក់';
+$lang['menu3'] = 'គ្រប់គ្រង អ្នកប្រើប្រាស់';
+$lang["menu4"] = "គ្រប់គ្រង បញ្ជីមុខម្ហូប";
+$lang["menu5"] = "គ្រប់គ្រង ប្រភេទមុខម្ហូប";
+$lang["menu6"] = "គ្រប់គ្រង វិក័យប័ត្រ";
+$lang["menu7"] = "ផ្ទាំងលក់";
+$lang["menu8"] = "បង្ហាញ​របាយការណ៍លក់";
+$lang["menu9"] = "បង្ហាញរបាយការណ៍លក់លម្អិត";
+
+#======================= for menu left ======================
+$lang["invoice_receipt"] = "គ្រប់គ្រង វិក័យប័ត្រ";
+$lang["table"] = "លេខតុ";
+$lang["table_number"] = "តុលេខ";
+$lang["print_invoice"] = "បោះពុម្ពវិក័យបត្រ";
+$lang["invoice"] = "វិក័យប័ត្រ";
+$lang["receipt"] = "វិក័យប័ត្រទូទាត់";
+$lang['sale_report'] = "របាយការណ៍លក់ប្រចាំថ្ងៃ";
+$lang["change_password"] = "ផ្លាស់ប្តូរ លេខសម្ងត់";
+$lang["category"] = "ប្រភេទមុខម្ហូប";
+$lang["add_transaction"] = "បន្ថែម ប្រតិបត្តិការ";
+$lang["transaction"] = "ប្រតិបត្តិការ";
+$lang['add'] = 'បន្ថែម';
+$lang["delete"] = "បោះបង់ចោល";
+$lang["print"] = "បោះពុម្ព";
+$lang["search"] = "ស្វែងរក";
+$lang['save'] = 'រក្សាទុក';
+$lang['save_new'] = 'រក្សាទុក ថ្មី';
+$lang['edit'] = 'កែប្រែ';
+$lang['cancel'] = 'បោះបង់';
+$lang["welcome"] = "សូមស្វាគមន៍";
+$lang["menu"] = "បញ្ជីមុខម្ហូប";
+
+$lang["wallet"] = "កាបូបលុយ";
+$lang["store"] = "ហាាងលក់";
+$lang["account"] = "គណនី";
+$lang["account-m"] = "កាដំឡើង​ គណនី";
+$lang["location"] = "ទីតាំង";
+$lang["stock"] = "ឃ្លាំង";
+$lang["user"] = "អ្នកប្រើប្រាស់";
+$lang["password"] = "ផ្លាស់ប្តូរ លេខសម្ងត់";
+$lang["advertisement"] = "ការផ្សព្វផ្សាយ";
+$lang["marquee"] = "អក្សររត់";
+$lang["back"]="ត្រលប់ក្រោយ";
+$lang["go"]="ទៅ";
+$lang["order"]="ការបញ្ជាទិញ";
+$lang["detail"]="រៀបរាប់";
+$lang["contact"]="ព័តមានទំនាក់ទំនង";
+$lang["info"]="ព័តមាន";
+$lang["promotion"]="ពិសេស";
+$lang["fund"]="លុយ";
+$lang["service"]="សេវាកម្ម";
+$lang["view"]="បង្ហាញ";
+$lang["refresh"]="បង្ហាញ";
+$lang["changes_language"]="ប្តូរ ភាសា";
+$lang["status"]="ស្ថានភាព";
+$lang["detail"]="លម្អិត";
+$lang["customer"]="ព័ត៍មាន អតិថិជន";
+$lang["seacrh1"]="តើអ្នកកំពុងស្វែងរកអ្វី...";
+$lang["home"]="ទំព័រដើម";
+$lang["about"]="អំពី​យើង";
+$lang["contact"]="ទំនាក់ទំនង";
+$lang["blog"]="Blog";
+
+$lang["grand_ttl_usd"] = "សរុបជាដុល្លារ";
+$lang["grand_ttl_riel"] = "សរុបជារៀល";
+$lang["cash_in_usd"] = "ទទួលជាដុល្លារ";
+$lang["cash_in_riel"] = "ទទួលជារៀល";
+$lang["exUsd"] = "អាប់ជាដុល្លារ";
+$lang["exRiel"] = "អាប់ជារៀល";
+$lang["table"]  = "តុលេខ";
+
+$lang["no"] = "ល.រ";
+$lang["receiptNo"] = "លេខវិក័យបត្រ";
+$lang["date"] = "កាលបរិច្ឆេតលក់";
+$lang["soldBy"] = "លក់ដោយ";
+$lang["ttlUsd"] = "សរុបជាដុល្លារ";
+$lang["ttlRiel"] = "សរុបជារៀល";
+$lang["cashInUsd"] = "ទទួលជាដុល្លារ";
+$lang["cashInRiel"] = "ទទួលជារៀល";
+$lang["exUsd"] = "អាប់ជាដុល្លារ";
+$lang["exRiel"] = "អាប់ជារៀល";
+$lang["dateF"] = "ចាប់ពី";
+$lang["dateT"] = "រហូតដល់";
+$lang["grandTtl"] = "សរុប";
+
+$lang["name"] = "ឈ្មោះម្ហូប";
+$lang["qty"] = "ចំនួន";
+$lang["price"] = "តម្លៃ";
+$lang["total"] = "សរុប";
+$lang["checkout"] = "ទូទាត់ទឹកប្រាក់";
+$lang["back"] = "ត្រលប់ទៅផ្ទាំងខាងដើម";
+
+$lang["btnRefresh"] = "បច្ចុប្បន្នភាព";
+$lang["SearchKeyWord"] = "លេខវិក័យបត្រ/អ្នកកម្មង់";
+$lang["InvoiceNum"] = "លេខវិក័យបត្រ";
+
+$lang["btnEditInvoice"] = "កែប្រែវិក័យបត្រ";
+$lang["action"] = "សកម្មភាព";
+$lang["saveChange"] = "រក្សាទុកការផ្លាស់ប្តូរ";
+$lang["remove"] = "ដកចេញ";
+$lang["btnReprint"] = "បោះពុម្ពវិក័យប័ត្រសារជាថ្មី";
+$lang["orderMenu"] = "រៀបលំដាប់មុខម្ហូប";
+$lang["reload"] = "ទាញទិន្នន័យសារជាថ្មី";
