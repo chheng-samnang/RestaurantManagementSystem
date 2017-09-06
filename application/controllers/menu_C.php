@@ -114,4 +114,14 @@ class Menu_C extends CI_Controller
       $this->footer();
 
     }
+
+    public function recipe($id="")
+    {
+      if($id!=""){
+        $this->load->view("template/header");
+        $this->load->view("template/left");
+        $this->load->view("recipe");
+        $this->load->view("template/footer");
+      }
+    }
 }

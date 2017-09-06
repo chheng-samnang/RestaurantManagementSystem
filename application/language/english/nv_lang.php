@@ -73,3 +73,5 @@ $lang["remove"] = "Remove";
 $lang["btnReprint"] = "Reprint Invoice";
 $lang["orderMenu"] = "Order Menu";
 $lang["reload"] = "Reload";
+$lang["recepi"] = "Recipe";
+$lang["add_recipe"] = "Add Recipe";

@@ -30,7 +30,7 @@
                                         <th>Image</th>
                                         <th>User Create</th>
                                         <th>Date Create</th>
-                                       
+
                                         <th>Action</th>
                                     </tr>
                                 </thead>
@@ -48,10 +48,11 @@
                                             </td>
                                             <td><?php echo $value->user_crea;?></td>
                                             <td><?php echo date("d/m/Y",strtotime($value->date_crea));?></td>
-                                            
+
                                             <td>
                                                 <a href="<?php echo base_url('index.php/menu_C/get_to_edit/'.$value->m_id);?>" class="btn btn-primary"><i class="fa fa-pencil"></i> <?php echo $this->lang->line('edit')?></a>
-                                                <a href="<?php echo base_url('index.php/menu_C/delete/'.$value->m_id);?>" class="btn btn-danger btn-large confirModal del" data-confirm-title="Confirm Delete !" data-confirm-message="Are you sure you want to Delete this ?"><i class="fa fa-trash"></i> <?php echo $this->lang->line('delete')?></button>
+                                                <a href="<?php echo base_url('index.php/menu_C/recipe/'.$value->m_id)?>"class="btn btn-info"><i class="glyphicon glyphicon-th-list"></i> <?php echo $this->lang->line("recipe"); ?></a>
+                                                <a href="<?php echo base_url('index.php/menu_C/delete/'.$value->m_id);?>" class="btn btn-danger btn-large confirModal del" data-confirm-title="Confirm Delete !" data-confirm-message="Are you sure you want to Delete this ?"><i class="fa fa-trash"></i> <?php echo $this->lang->line('delete')?></a>
                                             </td>
                                         </tr>
                                     <?php }?>
